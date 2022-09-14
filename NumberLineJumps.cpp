@@ -40,7 +40,7 @@ string kangaroo2(int x1, int v1, int x2, int v2)
         }
         else if (total1 > total2)
         {
-            result = "NO";
+            //result = "NO";
             break;
         }
     }
